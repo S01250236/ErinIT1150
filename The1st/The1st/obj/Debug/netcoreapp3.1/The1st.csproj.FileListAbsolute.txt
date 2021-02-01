@@ -1,0 +1,13 @@
+C:\Users\erin6\source\repos\The1st\The1st\bin\Debug\netcoreapp3.1\The1st.exe
+C:\Users\erin6\source\repos\The1st\The1st\bin\Debug\netcoreapp3.1\The1st.deps.json
+C:\Users\erin6\source\repos\The1st\The1st\bin\Debug\netcoreapp3.1\The1st.runtimeconfig.json
+C:\Users\erin6\source\repos\The1st\The1st\bin\Debug\netcoreapp3.1\The1st.runtimeconfig.dev.json
+C:\Users\erin6\source\repos\The1st\The1st\bin\Debug\netcoreapp3.1\The1st.dll
+C:\Users\erin6\source\repos\The1st\The1st\bin\Debug\netcoreapp3.1\The1st.pdb
+C:\Users\erin6\source\repos\The1st\The1st\obj\Debug\netcoreapp3.1\The1st.csprojAssemblyReference.cache
+C:\Users\erin6\source\repos\The1st\The1st\obj\Debug\netcoreapp3.1\The1st.AssemblyInfoInputs.cache
+C:\Users\erin6\source\repos\The1st\The1st\obj\Debug\netcoreapp3.1\The1st.AssemblyInfo.cs
+C:\Users\erin6\source\repos\The1st\The1st\obj\Debug\netcoreapp3.1\The1st.csproj.CoreCompileInputs.cache
+C:\Users\erin6\source\repos\The1st\The1st\obj\Debug\netcoreapp3.1\The1st.dll
+C:\Users\erin6\source\repos\The1st\The1st\obj\Debug\netcoreapp3.1\The1st.pdb
+C:\Users\erin6\source\repos\The1st\The1st\obj\Debug\netcoreapp3.1\The1st.genruntimeconfig.cache

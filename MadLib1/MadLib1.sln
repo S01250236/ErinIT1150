@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadLib1", "MadLib1.csproj", "{695A0C85-42EE-42DC-9BE6-F3DFFC6052EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{695A0C85-42EE-42DC-9BE6-F3DFFC6052EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695A0C85-42EE-42DC-9BE6-F3DFFC6052EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695A0C85-42EE-42DC-9BE6-F3DFFC6052EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695A0C85-42EE-42DC-9BE6-F3DFFC6052EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCCD1C0A-7CD0-4403-86D5-C5B8D1048093}
+	EndGlobalSection
+EndGlobal
